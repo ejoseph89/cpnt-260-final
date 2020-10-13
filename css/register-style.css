@@ -1,0 +1,9 @@
+/* REGISTER */
+
+.signup-container #text-content {
+  background: url(../images/hero-bg-4.jpg) no-repeat center center/cover;
+}
+
+.signup-container #text-content fieldset {
+  border: none;
+}
