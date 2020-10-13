@@ -24,10 +24,6 @@
   text-align: center;
 }
 
-.gallery img:hover {
-  opacity: .7;
-  transition: .8s;
-}
 
 /* Media queries for the gallery - mobile followed by tablet*/
 @media (max-width: 500px) {
