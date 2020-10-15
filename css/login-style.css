@@ -24,10 +24,6 @@ fieldset legend  {
   
 }
 
-.form-fake {
-flex: 1;
-
-}
 
 .form-real {
   flex: 2;

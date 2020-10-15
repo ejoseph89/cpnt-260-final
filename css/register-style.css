@@ -6,4 +6,5 @@
 
 .signup-container #text-content fieldset {
   border: none;
+  margin-top: 15vh;
 }
