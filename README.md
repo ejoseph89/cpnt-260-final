@@ -3,7 +3,8 @@
 ## Emil Joseph
 
 
-### GH Pages Link:  https://ejoseph89.github.io/cpnt-260-final/
+### GH Pages Link:  http://emiljoseph.me/cpnt-260-final/
+
 
 
 ### All images downloaded from unsplash
