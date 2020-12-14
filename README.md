@@ -1,16 +1,12 @@
-## CPNT 260
-## Final Project: 5-page Static Website
+## Elevate Cannabis
+## 5-page Static Website
 ## Emil Joseph
 
 
 ### GH Pages Link:  http://emiljoseph.me/cpnt-260-final/
 
 
-
 ### All images downloaded from unsplash
-
-
-### Critique and additional help from Nhat
 
 
 ### Comments
