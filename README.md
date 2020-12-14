@@ -3,7 +3,7 @@
 ## Emil Joseph
 
 
-### GH Pages Link:  http://emiljoseph.me/cpnt-260-final/
+### GH Pages Link:  http://emiljoseph.me/elevate-cannabis-static/
 
 
 ### All images downloaded from unsplash
